@@ -11,10 +11,10 @@
 
 ###### Preview:
 Whole site:
-[site screenshot](https://i.imgur.com/xUJd6n7.png)
+![whole site screen](https://i.imgur.com/xUJd6n7.png)
 
 Stalker zoom:
-["stalker" screenshot](https://i.imgur.com/8zgz1fO.png)
+[stalker zoom](https://i.imgur.com/8zgz1fO.png)
 
 ###### TODO:
 *(nothing yet)*
