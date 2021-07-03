@@ -1,2 +1,3 @@
-# website
-Project with cool website design, free to use
+# Website Template
+
+Free to use single site website with cool look and features that you probably havent seen yet! 
