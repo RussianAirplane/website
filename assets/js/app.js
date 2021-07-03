@@ -1,3 +1,10 @@
+/*
+credits - RusPlane
+
+get this template on:
+https://github.com/RussianAirplane/website
+*/
+
 $(document).ready(function() {
     getLocationF();
     function getLocationF() {
