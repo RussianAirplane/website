@@ -10,11 +10,14 @@
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 <body>
+<div id="particles-js"></div> <!-- particles background -->
 
     <div class="main">
         <img class="logo" src="assets/img/logo.png" alt="super logo">
         <h1 class="title">rusplane</h1>
 
+
+        <!-- change the links here -->
         <div class="links">
             <a href="https://youtube.com/c/rusplane" target="_blank"><i class="fab fa-youtube"></i></a>
             <a href="https://twitter.com/trustedgay" target="_blank"><i class="fab fa-twitter"></i></a>
@@ -22,10 +25,29 @@
             <a href="https://gayboi.xyz" target="_blank"><i class="far fa-browser"></i></a>
             <a href="https://steamcommunity.com/id/lightblues/" target="_blank"><i class="fab fa-steam"></i></a>
         </div>
+        
+            
+        <div class="brand-container">
+            <pre>[<div id="brand"></div>]</pre>
+        </div>
+        <div class="stalker">
+            <p><span id="country"></span><br>
+               ip: <span class="spoiler" id="ip"></span><br>
+               city: <span class="spoiler" id="city"></span><br>
+            </p>
+        </div>
     </div>
 
 
-    
 
+<!-- scripts -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+<script src="assets/js/app.js"></script>
+<script src="assets/js/typed.js"></script>
+<script src="assets/js/brand.js"></script>
+<script src="assets/js/particles.min.js"></script>
+<script type="text/javascript">
+particlesJS.load('particles-js', 'assets/js/particles.json');
+</script>
 </body>
 </html>
